@@ -120,3 +120,118 @@ This project is an export of the colored map from rdx-core and is opensource not
 		hash = 0x945395DF,
 		color = "BLIP_STYLE_AREA_BOUNDS",
     },
+
+# Unknown Map Hashes 
+Here are all the unknown hashes most of them draw limit of different towns.
+feel free to discover and found the names by yourself
+ 
+     	UNKNOWN = { -- ?????
+		hash = 0x09FAE063,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },	
+	UNKNOWN2 = { -- ?????
+		hash = 0x049BBBD4,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN3 = { -- ?????
+		hash = 0x129E1411,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN4 = { -- ?????
+		hash = 0x13A98173,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN5 = { -- ?????
+		hash = 0x150D72E9,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN6 = { -- ?????
+		hash = 0x194E52AF,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN7 = { -- ?????
+		hash = 0x21FE6ED8,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN8 = { -- ?????
+		hash = 0x28181665,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN9 = { -- ?????
+		hash = 0x2A24C8D9,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN10 = { -- ?????
+		hash = 0x2FE84F0E,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN11 = { -- ?????
+		hash = 0x33F2D34F,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN12 = { -- ?????
+		hash = 0x3B4A5D5B,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN13 = { -- ?????
+		hash = 0x3FB16CC9,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN14 = { -- ?????
+		hash = 0x46837F42,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN15 = { -- ?????
+		hash = 0x4F45BE43,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN16 = { -- ?????
+		hash = 0x5E68036B,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN17 = { -- ?????
+		hash = 0x703A27B1,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN18 = { -- ?????
+		hash = 0x89C0A213,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN19 = { -- ?????
+		hash = 0x90CA4AF8,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN20 = { -- ?????
+		hash = 0x95B1E77A,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN21 = { -- ?????
+		hash = 0x9CC09C3D,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN22 = { -- ?????
+		hash = 0xAE021C70,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN23 = { -- ?????
+		hash = 0xB6831F62,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN24 = { -- ?????
+		hash = 0xBBB91AAD,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN25 = { -- ?????
+		hash = 0xC1C68746,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN26 = { -- ?????
+		hash = 0xC354EAC2,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    },
+	UNKNOWN27 = { -- ?????
+		hash = 0xE074391B,
+		color = "BLIP_STYLE_DEBUG_GREEN",
+    }
+
+
