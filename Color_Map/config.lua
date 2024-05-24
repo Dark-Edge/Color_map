@@ -1,10 +1,4 @@
 Config 							= {}
-Config.Locale 					= 'en'
-Config.RevealMap 				= true
-Config.DisableRadarOnFoot       = false
-Config.RadarType                = 3
-Config.RadarTypeM               = 1
-Config.Radar 					= false
 
 Config.ColorMap = {
     STATE_NEW_HANOVER = { -- whole new hanover area 
