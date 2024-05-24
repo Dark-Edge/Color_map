@@ -125,7 +125,7 @@ This project is an export of the colored map from rdx-core and is opensource not
 Here are all the unknown hashes most of them draw limit of different towns.
 feel free to discover and found the names by yourself
  
-     	UNKNOWN = { -- ?????
+	UNKNOWN = { -- ?????
 		hash = 0x09FAE063,
 		color = "BLIP_STYLE_DEBUG_GREEN",
     },	
