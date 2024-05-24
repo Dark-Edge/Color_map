@@ -1,4 +1,4 @@
-Config 							= {}
+Config = {}
 
 Config.ColorMap = {
     STATE_NEW_HANOVER = { -- whole new hanover area 
