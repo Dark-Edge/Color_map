@@ -234,6 +234,8 @@ feel free to discover and found the names by yourself
 		color = "BLIP_STYLE_DEBUG_GREEN",
     }
 
+Discord : https://discord.gg/P34hPqfn
+
 # Special Thanks
 [esx-ORG](https://github.com/esx-framework) [ThymonA](https://github.com/ThymonA) (rdx-core)
 [femga](https://github.com/femga/rdr3_discoveries) (graphics/minimap/wanted_regions for region hashes)
